@@ -34,7 +34,7 @@
  game replicated server_can_execute lua_server
  - Initial round duration. (in seconds)
 
-"slashers_round_min_player" = "3"
+"slashers_round_min_player" = "2"
  game replicated server_can_execute lua_server
  - Set minimum players required to start a round.
 
